@@ -2,4 +2,4 @@ The OrlangoPg Simple project is an open source project that will allow its memeb
 that allows them to practice use PostgreSQL as a ORDBMS back end to a web project.  As its name implies it will
 be a "Simple Project" aimed at beginners to Postgresql.  We will focus on things like basic CRUD, Stored Procedures,
 and schema design, gradually moving up into advanced features like table-space management, hardware, version control, 
-etc..
+etc.
